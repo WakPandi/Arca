@@ -1,0 +1,21 @@
+body{
+	background: url(Img/banniere.jpg) 
+}
+.bouton a {
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background:url(Img/Bouton.png) no-repeat;
+color: black;
+text-decoration:none;
+position: absolute;
+left: 45%;
+top: 45%;
+}
+.bouton a :hover {
+background:url(Img/boutonhover.png) no-repeat;
+}
+nav ul{
+	text-decoration-style: none;
+}
